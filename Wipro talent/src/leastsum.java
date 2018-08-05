@@ -1,4 +1,4 @@
-	//Wipro program 7
+	//Wipro program 8
 import java.util.*;
 import java.util.List;
 import java.util.Scanner;
