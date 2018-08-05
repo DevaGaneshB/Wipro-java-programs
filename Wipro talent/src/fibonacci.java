@@ -1,3 +1,4 @@
+//Wipro program 12
 import java.util.Scanner;
 public class fibonacci {
 		void generatefibonacci(int x){

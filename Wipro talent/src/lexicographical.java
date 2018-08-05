@@ -1,4 +1,4 @@
-
+//Wipro program 3
 public class lexicographical {
 		public static void main(String[] args) {
 	        String[] wo = { "abc", "C", "a", "acd" };

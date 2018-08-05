@@ -1,3 +1,4 @@
+//Wipro program 7
 import java.util.Scanner;
 public class least {
 void findleast(int arr[]) {

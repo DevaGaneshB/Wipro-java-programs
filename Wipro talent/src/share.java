@@ -1,4 +1,4 @@
-
+//Wipro program 5
 public class share {
 public static void main(String args[]) {
 double sum=375,ind,ina=3,inb=4,inc=5,deca=4,decb=5,decc=6;
