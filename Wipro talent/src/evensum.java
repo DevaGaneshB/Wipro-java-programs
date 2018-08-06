@@ -15,5 +15,7 @@ public static void main(String args[]) {
 	System.out.println("Enter a number");
 	int n =sc.nextInt();
 	new evensum().sumeven(n);
+
+	sc.close();
 }
 }

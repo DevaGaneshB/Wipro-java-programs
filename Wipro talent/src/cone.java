@@ -13,6 +13,8 @@ public class cone {
 		double R=sc.nextDouble();
 		double H=sc.nextDouble();
 		new cone().conedim(R,H);
+
+		sc.close();
 	}
 
 }

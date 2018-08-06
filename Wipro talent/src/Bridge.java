@@ -28,6 +28,7 @@ public static void main(String args[]) {
 	}
 	Bridge a=new Bridge();
 	a.cross(time, n);
-	
+
+	sc.close();
 }
 }

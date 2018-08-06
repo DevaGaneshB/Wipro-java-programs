@@ -21,5 +21,7 @@ public static void main(String args[]) {
 	}
 	least a=new least();
 	a.findleast(arr);
+
+	sc.close();
 }
 }
